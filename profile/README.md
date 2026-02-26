@@ -1,44 +1,22 @@
-# Hi there 👋 We're GrackerAI!
+### GrackerAI — Generative Engine Optimization (GEO) for B2B SaaS
 
-## 🙋‍♀️ What We're All About
-We're building the future of cybersecurity marketing with AI! Our platform helps security teams stay on top of breaking news and turn it into engaging content. Think of us as your AI-powered sidekick that never sleeps on security trends. 
+We build the platform that helps B2B SaaS companies get cited and recommended by AI search engines.
 
-## 🎯 Our Mission
-Making cybersecurity marketing smarter, faster, and way more fun! We're transforming how security companies share their expertise and build trust with their audience.
+**What we do:**
 
-## 🌈 Get Involved
-We love collaborating with the community! Here's how you can join in:
-- 🐛 Found a bug? Open an issue
-- 💡 Have a feature idea? Start a discussion
-- 🔧 Want to contribute? Check out our contributing guidelines
-- 👀 Looking to learn? Explore our public repos
+- **Monitor** how ChatGPT, Perplexity, Claude, Gemini, Copilot, and Google AI Overviews talk about your brand
+- **Analyze** where competitors get cited and you don't
+- **Generate** AI-optimized content that earns citations from AI engines
+- **Scale** AI visibility with programmatic SEO portals and automated publishing
 
-## 👩‍💻 Resources
-- 📚 [Product](https://gracker.ai)
-- 🐦 [Twitter Updates](https://twitter.com/GrackerAI)
-- 📧 [Contact Us](mailto:hey@gracker.ai)
+**Why it matters:**
 
-## 🎉 Fun Facts
-- 🏢 We're a distributed team across 3 time zones
-- 🍳 Our team runs on tea, lots of tea ☕
+40% of B2B buyers now use AI assistants to research solutions. AI engines don't rank links — they recommend trusted sources. If AI can't find you, your customers won't either.
 
-## 🚀 Latest Updates
-- 🔥 Building cool new features for security news monitoring
-- 🤝 Growing our open-source community
-- 📈 Helping security teams create better content
+**Key numbers:**
 
-## 💪 Our Tech Stack
-- 🤖 Advanced AI models
-- ⚡ Real-time news processing
-- 🔧 Modern web technologies
-- 🔒 Enterprise-grade security
+- 6 AI engines monitored daily
+- 60% average visibility increase in 90 days
+- 3-5x higher conversion from AI search traffic
 
----
-
-<div align="center">
-
-**Built with ❤️ by security enthusiasts for security enthusiasts**
-
-[Website](https://grackerai.com) · [Blog](https://blog.grackerai.com) · [Twitter](https://twitter.com/GrackerAI)
-
-</div>
+**Get started:** [gracker.ai](https://gracker.ai) | [Book a Demo](https://gracker.ai/demo) | [Documentation](https://gracker.ai/docs)
